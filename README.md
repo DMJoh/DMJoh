@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DMJoh
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning everything possible
+- 🌱 Currently learning everything possible. 
+- :cactus: Interested in Docker, Home Automation.
 
 
 <!---
